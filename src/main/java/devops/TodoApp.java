@@ -44,7 +44,7 @@ public class TodoApp {
 
         app.completeTask(0);
 
-        System.out.println("TO-DO LIST");
+        System.out.println("TO-DO LIST";
         System.out.println("----------");
 
         app.displayTasks();
